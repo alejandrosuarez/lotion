@@ -16,7 +16,7 @@
     "deterministic-json": "^1.0.5",
     "discovery-channel": "^5.5.1",
     "fs-extra": "^7.0.0",
-    "get-port": "^4.0.0",
+    "get-port": "^4.2.0",
     "level": "^5.0.1",
     "lotion-connect": "0.1.22",
     "lotion-state-machine": "^0.2.3",
